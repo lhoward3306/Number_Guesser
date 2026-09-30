@@ -38,6 +38,8 @@
 *.exe
 *.out
 *.app
+app
+game_logic_tests
 
 # Build directories
 build/
